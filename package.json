@@ -1,17 +1,25 @@
 {
-  "dependencies": {
-    "express": "^4.18.1",
-    "mongoose": "^6.6.1"
-  },
   "name": "assignment6",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
-  "devDependencies": {},
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsraaRgb/CrudMongoDB.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/EsraaRgb/CrudMongoDB/issues"
+  },
+  "homepage": "https://github.com/EsraaRgb/CrudMongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  }
 }
